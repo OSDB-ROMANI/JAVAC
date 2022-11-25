@@ -1,4 +1,4 @@
-# JAVAC
+# JAVAC - JAR
 Come compilare e avviare file da console
 
 Strutta:
